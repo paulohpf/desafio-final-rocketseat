@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 3: Gympoint, continuando a aplicação
+  Gympoint - BackEnd
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ Para popular o banco utilize os comandos
 
 ## Execução
 
-Para executar o Backend abra dois prompts de comando e execute os seguintes comandos:
+Para executar o Backend abra dois prompts de comando e execute os seguintes comandos em cada um deles:
 
 `$ npm start`
 
