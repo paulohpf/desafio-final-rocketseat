@@ -1,9 +1,0 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/paulohpf/bootcamp-gostack-desafio-03.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/paulohpf/bootcamp-gostack-desafio-09.git
-[submodule "mobile"]
-	path = mobile
-	url = https://github.com/paulohpf/bootcamp-gostack-desafio-10.git
